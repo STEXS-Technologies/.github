@@ -11,9 +11,9 @@ It has been in planning and development since June 2021 and is intended to give 
   - REST-API 12%
 
 Current amount of 
-  - developer: 1
-  - designer: 2
-  - manager: 1
+  - developers: 1
+  - designers: 2
+  - managers: 1
 
 
 ### Where our goals are

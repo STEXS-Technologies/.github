@@ -10,7 +10,11 @@ It has been in planning and development since June 2021 and is intended to give 
   - Website 5%
   - REST-API 12%
 
-Current amount of developer 
+Current amount of 
+  - developer: 1
+  - designer: 2
+  - manager: 1
+
 
 ### Where our goals are
 - Web Development

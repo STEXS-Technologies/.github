@@ -1,7 +1,3 @@
-<style>
-  H1{color: #2ee2e8 !important;}  
-</style>
-
 ## Hey, you may enter （￣︶￣）↗　
 
 The organization was founded with the aim of creating solutions and tools for users and developers to simplify their everyday life. Redefining experiences in the digital environment and unlocking the maximum potential of the web. Open source is our top priority to ensure trust and security for our users.
@@ -14,4 +10,12 @@ It has been in planning and development since June 2021 and is intended to give 
   - Website 5%
   - REST-API 12%
 
-#
+- Current amount of developer 
+ - 1
+
+# Where our goals are
+- Web Development
+- REST-API
+- Applications
+- Game Development
+- Digital Asset Design

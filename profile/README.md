@@ -4,8 +4,10 @@ The organization was founded with the aim of creating solutions and tools for us
 
 # About our first project
 
-It has been in planning and development since June 2021 and is intended to give users the opportunity to use one inventory for all games that will use the API. That means the items are not restricted to a single game (limitation: game developers can decide which items they allow in the game in order not to break the game mechanics). It's not just this feature that's planned, but a lot more that not only connects games but also applications, thereby creating possibilities that aren't normally possible. In this project, the creativity of the users is also encouraged and the possibility to create a game or application yourself without having a team or company.
+It has been in planning and development since June 2021 and is intended to give users the opportunity to use one inventory for all games that will use the API. That means the items are not restricted to a single game (limitation: game developers can decide which items they allow in the game in order not to break the game mechanics). It's not just this feature that's planned, but a lot more that not only connects games but also applications, thereby creating possibilities that aren't normally possible. In this project, the creativity of the users is also encouraged and given the opportunity to create a game or application yourself without having a team or company behind you.
 
-- 
+- Progress overview for Alpha
+  - Website <mark style="color: #2ee2e8">5%</mark>
+  - REST-API <mark style="color: #2ee2e8">12%</mark> 
 
 #

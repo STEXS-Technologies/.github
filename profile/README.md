@@ -8,6 +8,6 @@ It has been in planning and development since June 2021 and is intended to give 
 
 - Progress overview for Alpha
   - Website <mark style="color: #2ee2e8">5%</mark>
-  - REST-API <mark style="color: #2ee2e8">12%</mark> 
+  - REST-API <mark style="background-color: #2ee2e8">12%</mark> 
 
 #

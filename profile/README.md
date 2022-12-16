@@ -24,4 +24,4 @@ Current amount of
 - Digital Asset Design
 - Devices
 
-- [ ] Foo
+- [X] Foo
